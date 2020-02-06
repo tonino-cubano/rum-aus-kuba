@@ -1,6 +1,21 @@
 # rum-aus-kuba
 Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 
+# ToDo (must have)
+## Startseite
+Wir benötigen eine Startseite, wo kurz und knapp wichtige Informationen stehen, damit der Besucher vorab ein Verständnis dafür hat, was ihm auf der Seite erwartet.
+## Eine Liste
+Wir benötigen auch eine Liste, wo alle Sorten untereinander aufgelistet sind, damit der Besucher einen Überblick über alle Sorten hat. Die Liste wird über ein Filterystem gefiltert unter verschiedenen Kategorien / Tags.
+## Impressum / Datenschutz
+Wir benötigen ein Impressum und eine Datenschutzseite, damit wir auf der sicheren Seite sind! :)
+## Affiliate Marketing
+Zum Schluss benötigen wir das Affiliate Marketing, um mit der Website etwas passives Einkommen generieren zu können.
+# ToDo (optional)
+## Geschichte über kubanischen Rum
+Eine Geschichte über den kubanischen Rum, damit der Besucher, sofern er Interesse hat, etwas über die Geschichte des kubanischen Rum erfahren kann.
+## Rezepte für Cocktails
+Wir können gerne Rezepte raussuchen und auf einer separaten Webseite dem Besucher zur Verfügung stellen, so kann er sich mit kubanischen Rum etwaige Rezepte zubereiten.
+
 # Marken
 
 ## Havana Club
