@@ -11,7 +11,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter
 0 Jahre
 #### Alkohol in Vol.%
-
+37,5% Alc.
+#### Preis (Ungefähr)
+13€ - 16€ (~14,99€)
 
 ### Anejo 3 Jahre
 #### Mengen 
@@ -19,7 +21,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter
 3 Jahre
 #### Alkohol in Vol.%
-
+40,0% Alc.
+#### Preis (Ungefähr)
+13€ - 18€ (~15,60€)
 
 ### Anejo 7 Jahre
 #### Mengen 
@@ -27,7 +31,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter 
 7 Jahre
 #### Alkohol in Vol.%
-
+40,0% Alc.
+#### Preise (Ungefähr)
+19€ - 26€ (~23,99€)
 
 ### Anejo 15 Jahre
 #### Mengen
@@ -35,7 +41,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter
 15 Jahre
 #### Alkohol in Vol.%
-
+40,0% Alc.
+#### Preise (Ungefähr)
+120€ - 145€ (~133,90€)
 
 ### Rum Union
 #### Mengen
@@ -43,7 +51,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter
 15 Jahre
 #### Alkohol in Vol.%
-40,0%
+40,0% Alc.
+#### Preis (Ungefähr)
+220€ - 270€ (~249,00€)
 
 ### Maximo
 #### Mengen
@@ -51,7 +61,9 @@ Rum aus Kuba, Projekt mit HTML, CSS, PHP, JavaScript &amp; SEO
 #### Alter
 25 Jahre
 #### Alkohol in Vol.%
-40% Alc.
+40,0% Alc.
+#### Preis (Ungefähr)
+1200€ - 1800€ (~1319,99€)
 #### Farbstoff
 Ja
 
@@ -61,7 +73,9 @@ Ja
 #### Alter
 10 Jahre
 #### Alkohol in Vol.%
-45,0%
+45,0% Alc.
+### Preis (Ungefähr)
+40€ - 55€ (~47,50€)
 
 -----------
 
