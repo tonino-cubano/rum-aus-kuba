@@ -1,0 +1,77 @@
+/* Global Settings / Globale Einstellungen */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+
+/* Head Section / Kopfbereich */
+
+
+/* Nav Section / Navigationsbereich */
+.site-nav {
+  top: 0;
+  position: sticky;
+}
+
+.site-nav ul, li {
+    display: flex;
+    background-color: firebrick;
+    list-style: none;
+    flex-flow: row wrap;
+}
+
+.site-nav a {
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+}
+
+
+.site-nav a:hover,
+.site-nav a:active {
+  background-color: rgb(141, 19, 19);
+}
+
+@media all and (max-width:800px){
+  .site-nav{
+    justify-content:space-around;
+  }
+  .site-nav a:hover{
+    background-color: rgb(141, 19, 19);
+  }
+}
+@media all and (max-width:500px){
+  .site-nav{
+    flex-flow:column wrap;
+    padding:0;
+    border-radius:3px;
+  }
+  .site-nav a{
+    text-align:center;
+    border-top:2px solid rgba(255,255,255,.2);
+      border-bottom:2px solid rgba(0,0,0,.1);
+  }
+}
+
+/* Main Section / Inhaltsbereich */
+
+/* Foot Section / Fußbereich */
+
+.site-footer {
+  background-color: firebrick;
+  padding: 1rem;
+  text-align: center;
+}
+
+.site-footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
